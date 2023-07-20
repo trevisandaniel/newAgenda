@@ -1,0 +1,36 @@
+.navbar{
+    background-color: #f3efef;
+}
+
+.nav-link{
+    color: #0a7474 ;
+}
+
+.nav-link:hover{
+    color: #12b9b9 ;
+}
+
+.navbar-brand{
+    color: #778888;
+}
+.navbar-brand:hover{
+    color: #778888;
+}
+.span-title{
+    color: #0a7474;
+}
+
+.col .btn-col{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.table:hover{
+    cursor: pointer;
+}
+
+/*Form escondido*/
+#form{
+    display: none;
+}
